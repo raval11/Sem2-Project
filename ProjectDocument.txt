@@ -1,0 +1,25 @@
+
+Event Management Project
+Authontication
+    login
+    Registartion
+    ChangePassword
+    ForgotPassword
+    ResetPassword
+
+Login -> Payment Plane
+    2 Month
+    4 Month
+    1 Year
+    Dashboard
+
+
+User -> Show Events
+    Show Event DetailsPage
+    Ticket Booking In Events
+
+
+command
+php artisan migrate
+npm run dev
+php artisan serve

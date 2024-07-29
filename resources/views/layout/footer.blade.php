@@ -1,6 +1,6 @@
 
-<footer class=" bg-blue-600 text-white mt-5 p-10">
-    <div class="grid lg:grid-cols-4  grid-cols-2 w-[90%] mx-auto gap-7">
+<footer class=" text-white mt-5 p-10 shadow-lg  bg-black">
+    <div class="grid lg:grid-cols-4  md:grid-cols-2 grid-cols-1 w-[90%] mx-auto gap-7">
             <div>
                 <p class="text-2xl font-bold">Branches</p>
                 <div class="mt-5">

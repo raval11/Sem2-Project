@@ -10,6 +10,7 @@ class Userdata extends Model
 {
     use HasFactory;
     protected $table = "User_Data";
-    protected $primarykey = "user_id";
+    protected $primarykey = 'user_id';
+
 
 }
